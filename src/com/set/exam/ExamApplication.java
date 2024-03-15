@@ -17,11 +17,11 @@ public class ExamApplication {
 				,new Date(2024, 1, 1, 12, 0) 
 				, null, null, 7);
 		
-		TableReservationInfoModel reserve2 = new TableReservationInfoModel("NameA", "1234"
+		TableReservationInfoModel reserve2 = new TableReservationInfoModel("NameB", "1234"
 				,new Date(2024, 1, 1, 12, 0) 
-				, null, null, 7);
+				, null, null, 4);
 		
-		TableReservationInfoModel reserve3 = new TableReservationInfoModel("NameA", "1234"
+		TableReservationInfoModel reserve3 = new TableReservationInfoModel("NameC", "1234"
 				,new Date(2024, 1, 1, 12, 0) 
 				, null, null, 2);
 		
